@@ -35,8 +35,8 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pulumi/pulumi-java/pkg v0.1.0
 	github.com/pulumi/pulumi-yaml v0.3.0
-	github.com/pulumi/pulumi/pkg/v3 v3.31.2-0.20220504080053-86c015b9e64a
-	github.com/pulumi/pulumi/sdk/v3 v3.31.1
+	github.com/pulumi/pulumi/pkg/v3 v3.32.1
+	github.com/pulumi/pulumi/sdk/v3 v3.32.1
 	github.com/pulumi/terraform-diff-reader v0.0.0-20201211191010-ad4715e9285e
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/spf13/afero v1.6.0
